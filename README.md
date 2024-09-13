@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **reactjs, JQuery, Next.js**
 
-- 📫 How to reach me **anjalisingh0356@gmail.com**
+- 📫 How to reach me **anjali.singh_cs20@gla.ac.in**
 
 - 📄 Know about my experiences [Resume_Anjali Singh_Format5 (7).pd](Resume_Anjali Singh_Format5 (7).pd)
 
